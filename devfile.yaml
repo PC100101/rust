@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: Rust
     source:
-      location: 'https://github.com/PC100101/rust.git'
+      location: 'https://github.com/PC100101/rust'
       type: git
       branch: master
 components:
